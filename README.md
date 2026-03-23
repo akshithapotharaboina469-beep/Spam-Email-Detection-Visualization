@@ -35,9 +35,6 @@ It is difficult to manually identify spam emails due to large volumes of data. T
 ### 🥧 Pie Chart
 ![Pie Chart](pie_chart.png)
 
-### ☁️ Word Cloud
-![Word Cloud](wordcloud.png)
-
 ## 🚀 Conclusion
 This project demonstrates how visualization helps in identifying spam patterns effectively.
 
